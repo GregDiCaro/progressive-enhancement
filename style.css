@@ -1,4 +1,185 @@
-h2{
+*{
 
-    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(229, 222, 235);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("soleil.jpg") ;
+    background-repeat: no-repeat;
+    background-size: none;
+    background-position:right 35% bottom 45%;
+    
+    
+}
+header >h1{
+
+        color:yellow;
+
+}
+
+
+.para {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+    
+
+}
+.h2{
+
+    color: green;
+    text-align: center;
+}
+.h3{
+
+
+    color: green;
+    text-align: center;
+}
+.ul{
+
+    font-size: 20px;
+    border:15 px solid white;
+    color: white;
+    border-radius: 15px;
+    
+}
+#img1{
+
+    height: 500px;
+    display: bloc;
+    border: 15px dashed rgb(115, 115, 216);
+    padding: 10px;
+    margin: 50px;
+    float: left;
+    
+}
+#img2{
+
+        display:block;
+        width:auto;
+        margin-left:auto;
+        margin-right:auto;
+        
+}
+img4 {
+
+        display:block;
+        width:auto;
+        margin-left:auto;
+        margin-right:auto;
+}
+
+}
+
+#blockquote{
+
+    border-left-width: 20px;
+    margin: center;
+    font-size: 160%;
+    background-color: rgb(226, 217, 217);
+}
+.para2{
+
+    font-weight: 900;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color:rgb(241, 150, 150);
+    font-size: 25px;
+    
+    
+    
+}
+.para3{
+
+    font-size: 30px;
+    border:15px solid rgb(192, 218, 192);
+    border-radius: 30px;
+    padding: 30px;
+    margin 30px;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color:rgb(241, 150, 150);
+    font-size: 25px;
+    margin-top: 180px;
+    margin-bottom: 80px;
+    font-style: italic;
+}
+.para4{
+
+    font-size: 25px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    padding: 30px;
+    margin: 40px;
+    box-shadow: 10px 10px 1 blue;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color:rgb(241, 150, 150);
+}
+.para5,h3{
+
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    border: 30px groove rgb(234, 234, 247);
+    padding-right: 30px;
+    margin-top: 30px;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color:rgb(241, 150, 150);
+    font-size: 25px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+
+}
+
+.para6{
+    font-size: 25px;
+    
+    background-color: khaki;
+    border: 5px solid rgb(221, 202, 202);
+    border-radius: 20px;
+    padding: 100px;
+    margin: 100px;
+    border-left-width: 10px;
+    border-left-style: solid;
+    border-left-color:rgb(241, 150, 150);
+
+}
+.para7{
+
+    font-size: 25px;
+    color: white;
+}
+.mal{
+
+    color: red;
+}
+.bien {
+
+    color: green;
+}
+#pouce{
+
+    background-image: url("./pouce.png");
+    padding-left: 30px;
+    background-repeat: no-repeat;
+}
+#poucebas{
+    background-image: url("./poucebas.png");
+    padding-right: 15px;
+    background-repeat: no-repeat;
+}
+#chat{
+
+    background-image: url("./chat.png");
+    padding-right: 30px;
+    background-repeat: no-repeat;
 }
