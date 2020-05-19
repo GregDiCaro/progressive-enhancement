@@ -10,8 +10,9 @@ body{
     margin-right: auto;
     background-image: url("soleil.jpg") ;
     background-repeat: no-repeat;
-    background-size: none;
-    background-position:right 35% bottom 45%;
+    background-size: auto;
+    background-position-x: auto;
+    
     
     
 }
@@ -56,7 +57,7 @@ header >h1{
     border: 15px dashed rgb(115, 115, 216);
     padding: 10px;
     margin: 50px;
-    float: left;
+    float: none;
     
 }
 #img2{
